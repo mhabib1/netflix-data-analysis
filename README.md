@@ -27,7 +27,7 @@ Welcome to a super dope, beginner-friendly data analytics project — a visual d
 * Python 🐍
 * Pandas & NumPy
 * Matplotlib & Seaborn
-* Google Colab / Jupyter Notebook
+* Google Colab
 
 ---
 
@@ -35,11 +35,11 @@ Welcome to a super dope, beginner-friendly data analytics project — a visual d
 
 ### 🎬 Top 10 Directors
 
-![Top 10 Directors](top_10_directors.png)
+(Add screenshots here from your Colab notebook)
 
 ### 🎭 Genre Breakdown: Drama Directors
 
-![Drama Directors](drama_directors.png)
+(Add screenshots here from your Colab notebook)
 
 ---
 
@@ -47,15 +47,9 @@ Welcome to a super dope, beginner-friendly data analytics project — a visual d
 
 Click the badge below to run this notebook live in your browser — no setup needed.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/yourusername/netflix-director-insights/blob/main/Netflix_Director_Insights.ipynb](https://colab.research.google.com/drive/1YkgKB9OrfN7AkFYKRQoC2d1LFXW0xyPg?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YkgKB9OrfN7AkFYKRQoC2d1LFXW0xyPg#scrollTo=xS9fQOCgCjmu)
 
 > No installations, just click and go! 🎯
-
-Or clone locally:
-
-```bash
-git clone https://github.com/yourusername/netflix-director-insights.git
-
 
 ---
 
