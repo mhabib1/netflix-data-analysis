@@ -43,16 +43,19 @@ Welcome to a super dope, beginner-friendly data analytics project — a visual d
 
 ---
 
-## 📜 How to Run It
+## 🚀 Run It in Google Colab
 
-1. Clone this repo or open the `.ipynb` file in Google Colab
-2. Run all cells to view the analysis
-3. Modify or extend it — add more genres, explore actors, etc.
+Click the badge below to run this notebook live in your browser — no setup needed.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/yourusername/netflix-director-insights/blob/main/Netflix_Director_Insights.ipynb](https://colab.research.google.com/drive/1YkgKB9OrfN7AkFYKRQoC2d1LFXW0xyPg?usp=sharing))
+
+> No installations, just click and go! 🎯
+
+Or clone locally:
 
 ```bash
-# Clone the repo
 git clone https://github.com/yourusername/netflix-director-insights.git
-```
+
 
 ---
 
