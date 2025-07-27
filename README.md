@@ -77,7 +77,7 @@ git clone https://github.com/yourusername/netflix-director-insights.git
 
 **Mohammed Rahman**
 Data Curious | Python Lover | Startup Builder
-[LinkedIn](https://www.linkedin.com/in/yourprofile) • [Portfolio](https://yourdomain.com) • [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/mhrrahman) • [Portfolio](https://habib.to) • [GitHub](https://github.com/mhabib1)
 
 ---
 
